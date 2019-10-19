@@ -1,2 +1,2 @@
-# cubie-init
+# Get Started
 Cubie starter kit cube
